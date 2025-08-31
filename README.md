@@ -2,7 +2,7 @@
 <div align="center">
   <img src="assets/moviecore_icon.png" alt="MovieCORE Icon" width="150"/>
   
-  # MovieCORE
+  # MovieCORE: COgnitive REasoning in Movies
   
   **A Video Question Answering Dataset for Probing Deeper Cognitive Understanding of Movie Content**
   
