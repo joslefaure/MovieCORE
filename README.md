@@ -27,7 +27,7 @@ Download the video files from MovieChat's HuggingFace repositories:
 - **Test Data**: [MovieChat-1K Test](https://huggingface.co/datasets/Enxin/MovieChat-1K-test)
 
 ### Annotations
-Access our carefully curated annotations on HuggingFace:
+Access our annotations on HuggingFace:
 - **MovieCORE Annotations**: [🤗 HuggingFace Dataset](https://huggingface.co/datasets/MovieCORE/MovieCORE/tree/main)
 
 Extract and organize the data according to your model's requirements, then use our annotations for evaluation.
@@ -38,11 +38,10 @@ Extract and organize the data according to your model's requirements, then use o
 ```bash
 git clone https://github.com/joslefaure/MovieCORE.git
 cd MovieCORE
-pip install -r requirements.txt  # Install dependencies
 ```
 
 ## 🎯 Baselines
-*Coming soon - We will provide baseline implementations and results for popular VQA models.*
+- We have provided the script to run [HERMES](https://github.com/joslefaure/HERMES) (ICCV'25) on MovieCORE. Please check out the linked project.
 
 ## 📊 Evaluation Dimensions
 
